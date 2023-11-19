@@ -1,0 +1,15 @@
+names:
+- Dent
+- Head Light
+- Severe Damage
+- Windshield
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: car-damage-analysis-sa9nx
+  url: https://universe.roboflow.com/systech-datasoft/car-damage-analysis-sa9nx/dataset/1
+  version: 1
+  workspace: systech-datasoft
+test: /media/ahnaf/DeptOfMyst/In_ubuntu/CarDA_project/Car-Damage-Analysis-1/test/images
+train: /media/ahnaf/DeptOfMyst/In_ubuntu/CarDA_project/Car-Damage-Analysis-1/train/images
+val: /media/ahnaf/DeptOfMyst/In_ubuntu/CarDA_project/Car-Damage-Analysis-1/valid/images
